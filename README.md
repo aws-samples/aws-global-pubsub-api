@@ -23,13 +23,13 @@ This is an implementation of a multi-region PubSub real-time API based on Server
 1. Clone the project to your local working directory:
 
    ```sh
-   git clone https://github.com/awsed/globalWSAPI
+   git clone https://github.com/aws-samples/aws-global-pubsub-api
    ```
 
 2. Change the working directory to:
 
    ```sh
-   cd globalWSAPI/cdk
+   cd aws-global-pubsub-api/cdk
    ```
 
 3. Install the project dependencies:

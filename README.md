@@ -5,6 +5,8 @@
 ![Screnshot](images/globalWSAPI.png)
 
 This is an implementation of a multi-region PubSub real-time API based on Serverless/Functionless WebSockets where clients are subscribed to a specific channel and messages are pushed automatically to clients listening/subscribed to the channel in both regions. Connections management, scalability, fan-out and broadcasting are all automatically handled by the regional AppSync APIs.
+
+For more details, check the related article: https://aws.amazon.com/blogs/mobile/multi-region-websocket-api/
 <br/>
 <br/>
 
